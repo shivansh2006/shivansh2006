@@ -1,5 +1,4 @@
 ## Hi there 👋
-<div align="center">
 <img src="https://raw.githubusercontent.com/shivansh2006/shivansh2006/main/image.png)" width="25%" align="right" />
 I'm **Shivansh**, doing some random stuff, example: 
 -
