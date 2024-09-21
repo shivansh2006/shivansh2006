@@ -1,12 +1,16 @@
 ## Hi there 👋
 <img src="https://raw.githubusercontent.com/shivansh2006/shivansh2006/main/image.png)" width="25%" align="right" />
+
 I'm **Shivansh**, doing some random stuff, example: 
 -
-`🔧` Maintaining GNU/Linux servers -
+ `🔧` Maintaining GNU/Linux servers -
 
-`🤖` Maintaing Websites/Discord/Telegram bots -
 
-`🤝` I’m looking for help with **Maintaing private bots and repositories**
+ `🤖` Maintaing Websites/Discord/Telegram bots -
+
+
+ `🤝` I’m looking for help with **Maintaing private bots and repositories**
+
 
     
     `💻` System ppg languages • dev tester 
