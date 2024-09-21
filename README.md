@@ -1,5 +1,4 @@
 ## Hi there 👋
-<img src=)" width="25%" align="right" />
 
 I'm **Shivansh**, doing some random stuff, example: 
 -
